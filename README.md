@@ -10,7 +10,7 @@ Assign the value for y1 and y2.
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
-Print the value for distance between two points with two decimal points.
+Print the value for distance between two points with two decimal places.
 ### Step 5: 
 End the program.
 ### PROGRAM:
