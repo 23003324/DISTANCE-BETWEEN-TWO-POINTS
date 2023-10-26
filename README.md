@@ -26,15 +26,7 @@ d=((x2-x1)**2+(y2-y1)**2)**0.5
 print("{:.2f}".format(d))
 ```
   
-
-
 ### OUTPUT:
-
-
-
 ![Alt text](distance.png)
-
-
-
 ### RESULT:
 Thus the distance between two points are executed successfully.
